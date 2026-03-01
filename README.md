@@ -24,13 +24,6 @@ I build Telegram bots, educational tools and web projects with Vibe Coding.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akm096&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akm096&layout=compact&theme=radical)
-
----
-
 ### 📫 Let's Connect!
 
 - **Telegram:** [@Proakm09](https://t.me/Proakm09)
